@@ -18,9 +18,8 @@
 ┣ 📂 Проекты  
 ┃ ┗ 📂 [Mvp lifestyle sb1 (tg bot)](https://github.com/vygup/mvp_lifestyle_sb1)  
 ┃ ┗ 📂 [Flask product construct](https://github.com/vygup/flask_product_construct)  
-┃ ┗ 📂 [Esp mortgage display](https://github.com/vygup/mcu-esp-mortgage-display)
+┃ ┗ 📂 [Esp mortgage display](https://github.com/vygup/mcu-esp-mortgage-display)  
 ┣ 📂 Заметки и инфо  
-┃ ┗ 📂 [Заметки]()  
+┃ ┗ 📂 [Заметки](https://github.com/vygup/notes)  
 ┃ ┗ 📂 [Ревью](https://github.com/vygup/reviews)  
 ┃ ┗ 📂 [Материалы из игр](https://github.com/vygup/games)  
-┃ ┗ 📂 []()  
