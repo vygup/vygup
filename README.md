@@ -11,8 +11,6 @@
 ┃ ┃ ┗ 📂 [МАДМО](https://github.com/vygup/course_sber_madmo)  
 ┃ ┃ ┗ 📂 [Hadoop](https://github.com/vygup/course_sber_hadoop)  
 ┃ ┃ ┗ 📂 [Spark DS](https://github.com/vygup/course_sber_spark_ds)  
-┣ 📂 [Книги](https://github.com/vygup/books)  
-┃ ┗ 📂 [Грокаем алгоритмы](https://github.com/vygup/books/tree/main/grokking_algorithms)  
 ┣ 📂 Прочее  
 ┃ ┗ 📂 [Trash Python](https://github.com/vygup/trash_python)  
 ┃ ┗ 📂 [Financial tools](https://github.com/vygup/financial_tools)  
@@ -25,3 +23,6 @@
 ┃ ┗ 📂 [Заметки](https://github.com/vygup/notes)  
 ┃ ┗ 📂 [Ревью](https://github.com/vygup/reviews)  
 ┃ ┗ 📂 [Материалы из игр](https://github.com/vygup/games)  
+┃ ┃ ┗ 📂 [Grey Hack](https://github.com/vygup/games/tree/main/grey_hack)  
+┃ ┗ 📂 [Материалы из книг](https://github.com/vygup/books)  
+┃ ┃ ┗ 📂 [Грокаем алгоритмы](https://github.com/vygup/books/tree/main/grokking_algorithms)  
