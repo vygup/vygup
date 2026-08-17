@@ -6,7 +6,7 @@
 ┃ ┃ ┗ 📂 [Для начинающих](https://github.com/vygup/course_pygen_start)  
 ┃ ┃ ┗ 📂 [Для продвинутых](https://github.com/vygup/course_pygen_middle)  
 ┃ ┗ 📂 Карпов Курсы  
-┃ ┃ ┗ 📂 [Аналитик данных](https://github.com/vygup/course_karpov_data_analyst)
+┃ ┃ ┗ 📂 [Аналитик данных](https://github.com/vygup/course_karpov_data_analyst)  
 ┃ ┗ 📂 Сбер  
 ┃ ┃ ┗ 📂 [МАДМО](https://github.com/vygup/course_sber_madmo)  
 ┃ ┃ ┗ 📂 [Hadoop](https://github.com/vygup/course_sber_hadoop)  
